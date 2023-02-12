@@ -32,7 +32,7 @@ Before running the project be sure to:
 
 
 ### Instructions to run tests
-- Run "yarn test" in the terminal and the results will be displayed
+- Run "yarn test a" in the terminal to run all the tests and see the results
 
 
 ### Challenge Tasks 
