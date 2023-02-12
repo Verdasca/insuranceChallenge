@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "first_name": "Cristina",
+        "last_name": "Verdasca",
+        "email": "cristina@dummyemail.com",
+        "age": 20,
+        "product": "realme_gt_neo_5-12066"
+    },
+    {
+        "id": 2,
+        "first_name": "Bela",
+        "last_name": "Alves",
+        "email": "bela@dummyemail.com",
+        "age": 40,
+        "product": "samsung_galaxy_f04-12054"
+    },
+    {
+        "id": 3,
+        "first_name": "Nuno",
+        "last_name": "Santos",
+        "email": "nuno@dummyemail.com",
+        "age": 69,
+        "product": "xiaomi_poco_x5_pro-12094"
+    },
+    {
+        "id": 4,
+        "first_name": "Cristina",
+        "last_name": "Verdasca",
+        "email": "cristina@dummyemail.com",
+        "age": 20,
+        "product": "samsung_galaxy_f04-12054"
+    }
+]
