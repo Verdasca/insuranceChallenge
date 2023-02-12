@@ -24,6 +24,7 @@ There is a video file called "demo_challenge_video" as well to show a brief view
 ### Instructions
 Since this is based on a React Application, the original instructions are available in REACT_APP_README.md file.
 Before running the project be sure to:
+- Have the project in your computer and using the terminal clone the project by doing "git clone https://github.com/Verdasca/insuranceChallenge.git"
 - Have the correct versions of yarn, npm (yarn version 1.22.19; npm version 9.2.0)
 - Do "yarn install" before doing a "yarn start"
 - If having issues, please delete the node_module and reinstall modules "npm install" (might need to do a "npm audit fix --force" or "npm fund" after reinstalling) or do "yarn install"
