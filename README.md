@@ -1,13 +1,13 @@
 ## INDEX
-# Notes
-# Instructions
-# Instructions to run tests
-# Challenge Tasks
-#   Tasks to be done
-#   Tasks to be done for Sales Insurance Page
-# Tasks Not Completed that were mandatory for the challenge and how to approach
-# Future Work
-# Final Notes
+- Notes
+- Instructions
+- Instructions to run tests
+- Challenge Tasks
+    - Tasks to be done
+    - Tasks to be done for Sales Insurance Page
+- Tasks Not Completed that were mandatory for the challenge and how to approach
+- Future Work
+- Final Notes
 
 ### Notes
 The project base code is based on https://reactjs.org/docs/create-a-new-react-app.html by running "npx create-react-app my-app" to build the base code from a react application. From here we will develop the challenge.
